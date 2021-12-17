@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Mixed Berry",
+    "theme": {
+        "colors": {
+            "background_tab": [32, 23, 47],
+            "background_tab_inactive": [32, 23, 47],
+            "background_tab_incognito": [32, 23, 47],
+            "background_tab_incognito_inactive": [32, 23, 47],
+            "bookmark_text": [232, 227, 238],
+            "button_background": [242, 205, 7],
+            "frame": [32, 23, 47],
+            "frame_inactive": [32, 23, 47],
+            "frame_incognito": [32, 23, 47],
+            "frame_incognito_inactive": [32, 23, 47],
+            "toolbar": [80, 60, 98],
+            "toolbar_button_icon": [232, 227, 238],
+            "tab_text": [232, 227, 238],
+            "tab_background_text": [231, 50, 143],
+            "tab_background_text_inactive": [231, 50, 143],
+            "tab_background_text_incognito": [231, 50, 143],
+            "tab_background_text_incognito_inactive": [231, 50, 143],
+            "ntp_background": [32, 23, 47],
+            "ntp_text": [231, 50, 143]
+        }
+    }
+}
