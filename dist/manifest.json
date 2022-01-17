@@ -23,6 +23,9 @@
             "tab_background_text_incognito_inactive": [231, 50, 143],
             "ntp_background": [32, 23, 47],
             "ntp_text": [231, 50, 143]
+        },
+        "images": {
+            "theme_toolbar": "images/theme_toolbar.png"
         }
     }
 }
