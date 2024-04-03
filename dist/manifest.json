@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "version": "1.5",
+    "version": "1.6",
     "name": "Mixed Berry",
     "theme": {
         "colors": {
@@ -17,12 +17,12 @@
             "toolbar": [80, 60, 98],
             "toolbar_button_icon": [232, 227, 238],
             "tab_text": [232, 227, 238],
-            "tab_background_text": [205, 35, 122],
-            "tab_background_text_inactive": [205, 35, 122],
-            "tab_background_text_incognito": [205, 35, 122],
-            "tab_background_text_incognito_inactive": [205, 35, 122],
+            "tab_background_text": [251, 19, 131],
+            "tab_background_text_inactive": [251, 19, 131],
+            "tab_background_text_incognito": [251, 19, 131],
+            "tab_background_text_incognito_inactive": [251, 19, 131],
             "ntp_background": [32, 23, 47],
-            "ntp_text": [231, 50, 143]
+            "ntp_text": [251, 19, 131]
         }
     }
 }
